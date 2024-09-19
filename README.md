@@ -1,7 +1,5 @@
 # Sales-Analysis-Dashboard
-This interactive Sales Analysis Dashboard was created to evaluate store performance across two states, NSW and Victoria, over the years 2017 to 2019.
-The dashboard analyzes store performance in NSW and Victoria over three years (2017-2019) and it includes
-Total profit, total sales, and profit margin by city within NSW and Victoria, providing a clear comparison of each city's contribution to overall performance.
+This interactive Sales Analysis Dashboard was created to evaluate store performance across two states, NSW and Victoria, over the years 2017 to 2019 and it includes total profit, total sales, and profit margin by city within NSW and Victoria, providing a clear comparison of each city's contribution to overall performance.
 Sales Analysis by Category:Highlights the maximum and minimum sales figures across different categories, allowing for identification of top and low-performing product categories.Shows total sales by category, helping to understand which product lines drive the most revenue.
 Key performance indicators like total orders and total profit give an at-a-glance view of overall store success.
 Year-over-year comparison of sales cost and profit trends from 2017 to 2019, offering insights into profitability and cost management over time.
